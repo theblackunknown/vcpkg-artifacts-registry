@@ -1,0 +1,25 @@
+# MANIFEST-INDEX
+items: [ tools/kitware/cmake-3.22.1.yaml ]
+indexes:
+  IdentityKey/info.id:
+    keys:
+      tools/kitware/cmake: [ 0 ]
+    words:
+      cmake: [ 0 ]
+      kitware: [ 0 ]
+      kitware/cmake: [ 0 ]
+      tools: [ 0 ]
+      tools/kitware: [ 0 ]
+      tools/kitware/cmake: [ 0 ]
+  SemverKey/info.version:
+    keys:
+      3.22.1: [ 0 ]
+  StringKey/info.summary:
+    keys:
+      Kitware's cmake tool: [ 0 ]
+    words:
+      Kitware: [ 0 ]
+      Kitware's: [ 0 ]
+      cmake: [ 0 ]
+      s: [ 0 ]
+      tool: [ 0 ]
